@@ -38,3 +38,5 @@ Created by Techno Tim with 💛
 ► Facebook https://www.facebook.com/TechnoTimLive/
 
 ► GitHub https://github.com/timothystewart6
+
+[![Run on Repl.it](https://repl.it/badge/github/techno-tim/techno-boto-twitch)](https://repl.it/github/techno-tim/techno-boto-twitch)
